@@ -133,7 +133,7 @@ public class ArticleDetailFragment extends Fragment implements
         tintManager.setStatusBarTintEnabled(true);
 // enable navigation bar tint
         tintManager.setNavigationBarTintEnabled(true);
-// set the transparent color of the status bar
+// set the color of the status bar transparent
         tintManager.setTintColor(Color.parseColor("#00000000"));
 
         mPhotoView = (ImageView) mRootView.findViewById(R.id.poster);
