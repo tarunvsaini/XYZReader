@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="poster_height">450dp</dimen>
+    <dimen name="up_button_width">56dp</dimen>
+    <dimen name="up_margin_top">16dp</dimen>
+    <dimen name="image_overlap">80dp</dimen>
+
+</resources>
